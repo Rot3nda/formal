@@ -95,8 +95,7 @@
 
 .l1{
     width: 80%;
-    padding-left: 3%;
-    border-left: 3px solid orangered;
+    
 }
 
 .l2{
@@ -155,8 +154,18 @@
     }
 
     .l2{
-        height: 25vh;
-        
+        height: 15vh;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .l21{
+        margin-bottom: 5%;
+    }
+
+    .l2{
+        border-left: 3px solid orangered;
+        margin-top: 5%;
     }
 
     .logo{
