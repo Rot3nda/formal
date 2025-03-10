@@ -312,6 +312,9 @@
 
  #s5{
     height: 25vh;
+    background-image: url(pexels-sanmane-1365425.jpg);
+    background-position: center;
+    background-attachment: fixed;
  }
 
 
