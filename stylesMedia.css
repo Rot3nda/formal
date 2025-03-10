@@ -106,6 +106,10 @@
 
  @media screen and (max-width:490px) {
 
+    .nav{
+        background-color: rgb(12, 15, 32);
+    }
+
     .logo{
         max-width: 100%;
         margin: 0px;
@@ -176,9 +180,123 @@
     margin-top: 10%;
   }
 
- .s2,.s21,.s22{
+ .s2,.s22{
     height: fit-content;
  }
 
+ .s21{
+    display: none;
+ }
+
+ .s22{
+    width: 100%;
+    padding: 0%;
+ }
+
+ .s221 h1{
+    margin-top: 5%;
+    margin-bottom: 4%;
+    margin-left: 3%;
+ }
+
+ .s222 p{
+    margin-left: 4%;
+ }
+ 
+ #s2{
+    height: fit-content;
+ }
+ #s2 div{
+    height: fit-content;
+ }
+
+ .sl,.sr{
+    height: fit-content;
+ }
+
+ #s3{
+    height: fit-content;
+    flex-direction: column;
+    justify-content: space-evenly;
+ }
+
+
+
+ .sl,.sr{
+    width: 80vw;
+    margin: 5%;
+ }
+
+ .sr{
+    width: 90vw;
+    margin-left: 1.5%;
+ }
+
+ #s4{
+    height: fit-content;
+    flex-direction: column;
+ }
+
+ #s4 h1{
+    font-size: 1.2rem;
+ }
+
+ .s41a{
+    width: 100vw;
+    height: fit-content;
+ }
+
+ #s4 img{
+    width: 70%;
+    height: 20vh;
+    margin: 5%;
+    margin-bottom: 10%;
+ }
+
+
+
+ .s41{
+    height: fit-content;
+    flex-direction: column-reverse;
+ }
+
+ .s41b{
+    height: fit-content;
+    width: 90vw;
+ }
+
+
+ #s6{
+    flex-direction: column;
+    height: fit-content;
+    margin-bottom: 4vh;
+ }
+
+ #s6 div{
+    width: 72vw;
+    height: 60vh;
+    margin: 3%;
+ }
+
+
+#s6 div img{
+    width: 70vw;
+    height: 25vh;
+}
+
+#s7{
+    height: 40vh;
+}
+
+.s7l img{
+    width: 250px;
+    height: 175px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+#s8{
+    height: fit-content;
+}
 
  }
