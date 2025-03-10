@@ -121,12 +121,10 @@
  @media screen and (max-width:490px) {
 
     .home{
-            max-width: 100%;
             height: 100vh;
             background-image:url(pexels-amar-31084873.jpg);
             background-size:cover;
-            background-repeat: no-repeat;
-            background-attachment:fixed;
+            background-attachment:scroll;
             background-position: center;
     }
 
