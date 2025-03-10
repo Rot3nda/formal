@@ -210,22 +210,32 @@
     height: fit-content;
  }
 
- .sl,.sr{
-    height: fit-content;
+ #s2 p{
+    font-size: 1.2rem;
  }
+
+
 
  #s3{
     height: fit-content;
     flex-direction: column;
     justify-content: space-evenly;
  }
+ #s3 h1{
+    font-size: 1.3rem;
+    margin: 3%;
+ }
 
-
+ #s3 p{
+    font-size: 1.1rem;
+ }
 
  .sl,.sr{
     width: 80vw;
+    height: fit-content;
     margin: 5%;
  }
+
 
  .sr{
     width: 90vw;
@@ -238,12 +248,18 @@
  }
 
  #s4 h1{
-    font-size: 1.2rem;
+    font-size: 1.4rem;
+ }
+
+ #s4 p{
+    font-size: 1.1rem;
  }
 
  .s41a{
     width: 100vw;
     height: fit-content;
+    justify-content: left;
+    
  }
 
  #s4 img{
@@ -284,13 +300,25 @@
     height: 25vh;
 }
 
+.heading{
+    font-size: 1.3rem;
+}
+.paragraph{
+    font-size: 1.1rem;
+}
+
 #s7{
     height: 40vh;
+    justify-content: space-around;
+}
+
+#s7 h1{
+    font-size: 2rem;
 }
 
 .s7l img{
-    width: 250px;
-    height: 175px;
+    width: 240px;
+    height: 165px;
     margin: 10px;
     border-radius: 8px;
 }
@@ -298,5 +326,17 @@
 #s8{
     height: fit-content;
 }
+
+#s8 h1{
+    font-size: 1.6rem;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+#s8 p{
+    font-size:1.2rem;
+}
+
+
 
  }
