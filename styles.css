@@ -197,7 +197,7 @@ header{
 }
 
 #c{
-    width: 31px;
+    width: 32px;
     height: 25vh;
     background-color: rgba(13, 5, 23, 0.409);
     background-color: rgba(12, 15, 32, 0.78);
@@ -216,8 +216,8 @@ header{
     bottom: 3vh;
     left: 0.1%;
     position: fixed;
-    width: 27px;
-    height: 27px;
+    width: 28px;
+    height: 28px;
 }
 
 
