@@ -121,7 +121,6 @@
  @media screen and (max-width:490px) {
 
     .home{
-            height: 100vh;
             background-image:url(pexels-amar-31084873.jpg);
             background-size:cover;
             background-attachment:scroll;
